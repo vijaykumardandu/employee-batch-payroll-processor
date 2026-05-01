@@ -9,13 +9,16 @@ Built to learn and demonstrate: **Java OOP, batch processing, JDBC data access, 
 ## Screenshots
 
 ### Console output — batch processing + summary report
-![Console Output](screenshots/console_output.png)
+![Uploading Screenshot 2026-05-01 101354.png…]()
+
 
 ### CSV output — payroll_output.csv
-![CSV Output](screenshots/csv_output.png)
+<img width="2797" height="743" alt="Screenshot 2026-05-01 101407" src="https://github.com/user-attachments/assets/496d173a-36a2-4212-987b-851da75f34ff" />
+
 
 ### MySQL Workbench — payroll_results table
-![Database Output](screenshots/db_output.png)
+<img width="2753" height="992" alt="Screenshot 2026-05-01 101420" src="https://github.com/user-attachments/assets/3a19ced9-2a33-48b9-9dd2-c06f0bc932ae" />
+
 
 ---
 
