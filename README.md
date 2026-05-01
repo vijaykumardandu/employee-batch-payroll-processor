@@ -9,7 +9,7 @@ Built to learn and demonstrate: **Java OOP, batch processing, JDBC data access, 
 ## Screenshots
 
 ### Console output — batch processing + summary report
-![Uploading Screenshot 2026-05-01 101354.png…]()
+<img width="2722" height="1460" alt="Screenshot 2026-05-01 101354" src="https://github.com/user-attachments/assets/02f41d6b-5ac4-4bf9-9e5d-c12dff22ac91" />
 
 
 ### CSV output — payroll_output.csv
